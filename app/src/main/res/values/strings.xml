@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ActivityLifecycle</string>
+    <string name="input_guess">Enter your message</string>
+    <string name="button_guess">Show message</string>
+</resources>
